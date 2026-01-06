@@ -1,0 +1,8 @@
+{
+  "name": "Gesture Fighter",
+  "description": "A browser-based fighting game controlled by webcam gestures using MediaPipe and powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
